@@ -74,5 +74,8 @@
 <code><img height="30" alt="reacta" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gilramot&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilramot&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gilramot&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilramot&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gilramot&theme=buefy&hide_border=true" />
+</a>
